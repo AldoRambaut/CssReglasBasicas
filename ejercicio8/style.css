@@ -1,0 +1,6 @@
+button {
+    background-color: lightgreen;
+    color: darkblue;
+    border: 1px solid orange;
+    border-radius: 10% 10%;
+}
